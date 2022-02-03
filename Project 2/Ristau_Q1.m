@@ -19,7 +19,3 @@ display(max(g(:)));
 
 % display result
 imshow(g, []);
-
-
-
-
